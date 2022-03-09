@@ -1,6 +1,9 @@
-## Programação Orientada a Objetos para Devs Java
+## Programação Orientada a Objetos utilizando Java
 
-Repositório criado para o estudo pessoal de conceitos da OOP:
+Esse repositório foi criado para o estudo da linguagem Java 
+
+
+## Conceitos Estudados de OOP:
 - Linguagem Java
 - Classes
 - Objetos
@@ -8,6 +11,11 @@ Repositório criado para o estudo pessoal de conceitos da OOP:
 - Heranças
 - Listas de objetos
 - to String
+
+## Conceitos a serem estudados:
+- Herança
+- Polimorfismo
+- Interface
 
 ## Curso
 
