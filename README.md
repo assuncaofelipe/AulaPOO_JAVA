@@ -12,11 +12,6 @@ Esse repositório foi criado para o estudo da linguagem Java
 - Listas de objetos
 - to String
 
-## Conceitos a serem estudados:
-- Herança
-- Polimorfismo
-- Interface
-
 ## Curso
 
 - Profº Alex: [Instagram](https://www.instagram.com/alex.java.avancado/)
